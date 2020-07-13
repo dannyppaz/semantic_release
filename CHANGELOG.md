@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dannyppaz/semantic_release/compare/v1.1.0...v1.1.1) (2020-07-13)
+
+
+### Bug Fixes
+
+* **index:** fix the bug ([6584a10](https://github.com/dannyppaz/semantic_release/commit/6584a107349670e402c938f69fb982bec8c55859))
+
 # [1.1.0](https://github.com/dannyppaz/semantic_release/compare/v1.0.0...v1.1.0) (2020-07-13)
 
 
